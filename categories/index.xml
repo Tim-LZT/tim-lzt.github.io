@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 梓鈿</title>
-    <link>http://tim-lzt.github.io/categories/</link>
+    <link>https://tim-lzt.github.io/categories/</link>
     <description>Recent content in Categories on 梓鈿</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://tim-lzt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tim-lzt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://tim-lzt.github.io/categories/development/</link>
+      <link>https://tim-lzt.github.io/categories/development/</link>
       <pubDate>Sun, 01 Jul 2018 18:00:37 +0800</pubDate>
       
-      <guid>http://tim-lzt.github.io/categories/development/</guid>
+      <guid>https://tim-lzt.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://tim-lzt.github.io/categories/golang/</link>
+      <link>https://tim-lzt.github.io/categories/golang/</link>
       <pubDate>Sun, 01 Jul 2018 18:00:37 +0800</pubDate>
       
-      <guid>http://tim-lzt.github.io/categories/golang/</guid>
+      <guid>https://tim-lzt.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
